@@ -1,0 +1,22 @@
+.tri-container {
+    min-width: 1280px;
+    margin: 20px;
+    padding: 20px 20px;
+    border: 1px solid #888888
+}
+
+#tri-info {
+    margin: 20px 0;
+}
+
+.judge-triangle {
+    margin: 20px 0;
+}
+
+.triangle-answer {
+    border: 1px solid #888888;
+    margin: 20px 0;
+    padding: 30px 20px;
+    width: 80%;
+    height: 200px;
+}
